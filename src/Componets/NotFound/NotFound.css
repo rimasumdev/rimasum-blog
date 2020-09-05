@@ -1,0 +1,11 @@
+.not-found {
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.not-found h2 {
+    font-size:50px;
+    color:#000;
+}

@@ -1,0 +1,16 @@
+.post-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.img {
+    width: 100%;
+
+}
+.comment {
+    margin-top: 50px;
+}

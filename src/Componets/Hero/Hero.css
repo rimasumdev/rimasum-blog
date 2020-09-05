@@ -1,0 +1,17 @@
+.hero {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid #333; */
+    /* background-image: url(https://source.unsplash.com/random); */
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://source.unsplash.com/random);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+.hero h2 {
+    font-size:50px;
+    color:rgb(236, 236, 236);
+}
